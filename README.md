@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00E676&height=200&section=header&text=SATHYAPRIYA%20T&fontSize=48&fontColor=E6EDF3&fontAlignY=40&desc=Full%20Stack%20MERN%20Developer%20%7C%20UI-UX%20Designer&descAlignY=60&descSize=18&descColor=8B949E" width="100%"/>
